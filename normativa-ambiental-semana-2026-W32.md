@@ -1,6 +1,6 @@
 # Revisión normativa ambiental — Semana 2026-W32 (3 al 9 de agosto de 2026)
 
-**Archivo de esta semana:** https://github.com/darioeva/normativa-ambiental-zarey/blob/claude/awesome-franklin-dl4tvo/normativa-ambiental-semana-2026-W32.md
+**Archivo de esta semana:** https://github.com/darioEVA/normativa-ambiental-zarey/blob/claude/awesome-franklin-dl4tvo/normativa-ambiental-semana-2026-W32.md
 *(URL construida sobre la rama de trabajo `claude/awesome-franklin-dl4tvo`; el archivo aún no ha sido fusionado a `main`. Si el repositorio se fusiona a `main`, la URL equivalente sería `.../blob/main/normativa-ambiental-semana-2026-W32.md`.)*
 
 > **Nota de inicio de semana:** esta ejecución se activó por primera vez el **domingo 9 de agosto de 2026**. No existía un archivo previo para la semana ISO 2026-W32 (lunes 3 a domingo 9 de agosto) en el repositorio, por lo que este archivo se crea a mitad/fin de semana y **no cubre los días previos de esta semana (3–8 de agosto)**, salvo lo capturado retroactivamente por la ventana de búsqueda ampliada de 3 días corridos (6–9 de agosto) aplicada en esta ejecución.
