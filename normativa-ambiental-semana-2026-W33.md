@@ -1,4 +1,4 @@
-Archivo de esta semana: https://github.com/darioeva/normativa-ambiental-zarey/blob/claude/awesome-franklin-kdexsd/normativa-ambiental-semana-2026-W33.md
+Archivo de esta semana: https://github.com/darioEVA/normativa-ambiental-zarey/blob/claude/awesome-franklin-kdexsd/normativa-ambiental-semana-2026-W33.md
 
 # Revisión diaria de normativa ambiental — ZP-027
 **Semana ISO 2026-W33 (lunes 10 a domingo 16 de agosto de 2026)**
