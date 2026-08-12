@@ -1,6 +1,6 @@
 # Normativa Ambiental — Semana ISO 2026-W33 (10 al 16 de agosto de 2026)
 
-Archivo de esta semana: https://github.com/darioeva/normativa-ambiental-zarey/blob/claude/awesome-franklin-03x4dk/normativa-ambiental-semana-2026-W33.md
+Archivo de esta semana: https://github.com/darioEVA/normativa-ambiental-zarey/blob/claude/awesome-franklin-03x4dk/normativa-ambiental-semana-2026-W33.md
 
 > Nota: la rama `claude/awesome-franklin-03x4dk` es la rama de trabajo de esta ejecución automatizada; el link se ajustará si el repositorio consolida el archivo en `main`.
 
