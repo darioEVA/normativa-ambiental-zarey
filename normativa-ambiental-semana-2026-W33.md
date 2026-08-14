@@ -1,6 +1,8 @@
 # Revisión de Normativa Ambiental — Semana 2026-W33 (10 al 16 de agosto de 2026)
 
-Archivo de esta semana: https://github.com/darioEVA/normativa-ambiental-zarey/blob/main/normativa-ambiental-semana-2026-W33.md
+Archivo de esta semana: https://github.com/darioEVA/normativa-ambiental-zarey/blob/claude/awesome-franklin-nxjepr/normativa-ambiental-semana-2026-W33.md
+
+*(Nota: el archivo se guardó en la rama de trabajo `claude/awesome-franklin-nxjepr`, no en `main` — esta rutina no crea Pull Requests automáticamente. El link apuntará a la rama principal una vez que esta rama sea fusionada.)*
 
 **Procedimiento:** ZP-027 — Servicio de Identificación de Normativa Aplicable a Clientes (ámbito Ambiental)
 **Nota de inicio:** Esta es la primera ejecución registrada de la rutina automatizada. Se activó el **viernes 14 de agosto de 2026**, por lo que **no cubre los días previos de esta semana (lunes 10 a jueves 13 de agosto)**, salvo hallazgos detectados dentro de la ventana de 3 días corridos que caen en ese rango.
