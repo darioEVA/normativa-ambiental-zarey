@@ -1,6 +1,6 @@
 # Normativa Ambiental — Semana 2026-W34 (17-23 agosto 2026)
 
-Archivo de esta semana: https://github.com/darioeva/normativa-ambiental-zarey/blob/claude/awesome-franklin-5zldca/normativa-ambiental-semana-2026-W34.md
+Archivo de esta semana: https://github.com/darioEVA/normativa-ambiental-zarey/blob/claude/awesome-franklin-5zldca/normativa-ambiental-semana-2026-W34.md
 
 > **Nota:** esta rutina se activó por primera vez el martes 18 de agosto de 2026 (semana ISO 2026-W34). Este archivo no cubre el día lunes 17 de agosto de 2026 de esta semana, ya que la ejecución no se realizó ese día.
 
