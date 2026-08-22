@@ -1,7 +1,7 @@
 # Revisión diaria de normativa ambiental — Semana ISO 2026-W34 (17–23 agosto 2026)
 
 **Procedimiento:** ZP-027 — Servicio de Identificación de Normativa Aplicable a Clientes (ámbito Ambiental)
-**Archivo de esta semana:** https://github.com/darioeva/normativa-ambiental-zarey/blob/claude/awesome-franklin-i4nn8e/normativa-ambiental-semana-2026-W34.md
+**Archivo de esta semana:** https://github.com/darioEVA/normativa-ambiental-zarey/blob/claude/awesome-franklin-i4nn8e/normativa-ambiental-semana-2026-W34.md
 
 > **Nota:** este archivo se creó el sábado 22 de agosto de 2026. La semana ISO 2026-W34 comenzó el lunes 17 de agosto, pero esta es la primera ejecución registrada de la rutina en el repositorio. **Semana iniciada desde el sábado 22 de agosto — no cubre días previos de esta semana (17 al 21 de agosto).**
 
