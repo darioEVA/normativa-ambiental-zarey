@@ -1,6 +1,6 @@
 # Normativa Ambiental — Semana 2026-W35 (lunes 24 a domingo 30 de agosto de 2026)
 
-**Archivo de esta semana:** https://github.com/darioeva/normativa-ambiental-zarey/blob/claude/awesome-franklin-cp44t5/normativa-ambiental-semana-2026-W35.md
+**Archivo de esta semana:** https://github.com/darioEVA/normativa-ambiental-zarey/blob/claude/awesome-franklin-cp44t5/normativa-ambiental-semana-2026-W35.md
 
 > Nota sobre el link: el repositorio no tiene una rama `main` con este archivo — el reporte se guardó en la rama de trabajo `claude/awesome-franklin-cp44t5`, por eso el link apunta a esa rama en vez de `main`. Si el equipo fusiona esta rama a `main`, actualizar el link en la próxima ejecución.
 
