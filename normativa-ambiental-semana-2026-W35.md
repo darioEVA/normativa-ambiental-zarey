@@ -1,6 +1,6 @@
 # Revisión de Normativa Ambiental — Semana 2026-W35 (24-30 agosto 2026)
 
-**Archivo de esta semana:** https://github.com/darioeva/normativa-ambiental-zarey/blob/claude/awesome-franklin-m4jedt/normativa-ambiental-semana-2026-W35.md
+**Archivo de esta semana:** https://github.com/darioEVA/normativa-ambiental-zarey/blob/claude/awesome-franklin-m4jedt/normativa-ambiental-semana-2026-W35.md
 
 Procedimiento: ZP-027 "Servicio de Identificación de Normativa Aplicable a Clientes" — Zarey Consultores. Ámbito: Ambiental.
 
@@ -85,3 +85,7 @@ No se detectaron episodios críticos/alertas ambientales (preemergencia, emergen
 - **Total De interés:** 2
 - **Pendientes de validación por el Jefe de Gestión Ambiental:** 2 (ambos hallazgos tienen N° de norma no confirmado oficialmente — Confianza Media/Media-Alta — se recomienda validar antes de comunicar a clientes, aunque la clasificación "De interés" en sí no presenta duda relevante de aplicabilidad).
 - **Días cubiertos esta semana:** solo domingo 30 de agosto (ejecución inicial de la semana; ver nota al inicio del archivo).
+
+## Incidencia — boletín por correo no enviado
+
+El envío del boletín por correo (punto 6 de ENTREGA del ZP-027) falló: el conector de Microsoft 365 devolvió error `FORBIDDEN` (permiso delegado `Mail.Send` no autorizado a nivel de aplicación/tenant para dario_meza@zarey.cl). No se pudo enviar el resumen de hoy por este medio. Se requiere que un administrador otorgue el consentimiento de `Mail.Send` en la app registrada, o que se indique un canal alternativo (Slack u otro correo) para el boletín diario.
