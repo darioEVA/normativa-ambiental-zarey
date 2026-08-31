@@ -1,4 +1,4 @@
-Archivo de esta semana: https://github.com/darioeva/normativa-ambiental-zarey/blob/claude/awesome-franklin-rexpx3/normativa-ambiental-semana-2026-W36.md
+Archivo de esta semana: https://github.com/darioEVA/normativa-ambiental-zarey/blob/claude/awesome-franklin-rexpx3/normativa-ambiental-semana-2026-W36.md
 
 > Nota sobre el link: este archivo se guardó en la rama de desarrollo `claude/awesome-franklin-rexpx3` del repositorio (no en `main`), conforme al flujo de trabajo configurado para esta tarea. Si el archivo se fusiona a `main`, el link deberá ajustarse a `blob/main/...`.
 
