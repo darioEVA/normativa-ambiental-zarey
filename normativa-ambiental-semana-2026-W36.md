@@ -1,4 +1,4 @@
-Archivo de esta semana: https://github.com/darioeva/normativa-ambiental-zarey/blob/claude/awesome-franklin-uu66ok/normativa-ambiental-semana-2026-W36.md
+Archivo de esta semana: https://github.com/darioEVA/normativa-ambiental-zarey/blob/claude/awesome-franklin-uu66ok/normativa-ambiental-semana-2026-W36.md
 
 # Normativa Ambiental — Semana 2026-W36 (31-ago al 06-sep-2026)
 
