@@ -1,4 +1,6 @@
-Archivo de esta semana: https://github.com/darioeva/normativa-ambiental-zarey/blob/main/normativa-ambiental-semana-2026-W37.md
+Archivo de esta semana: https://github.com/darioEVA/normativa-ambiental-zarey/blob/claude/awesome-franklin-n2gsrs/normativa-ambiental-semana-2026-W37.md
+
+*(Nota: el repositorio aún no tiene una rama `main` con este archivo — está publicado en la rama de trabajo `claude/awesome-franklin-n2gsrs`. El link se actualizará a `main` cuando esta rama se integre.)*
 
 # Normativa Ambiental — Semana 2026-W37 (ZP-027)
 
