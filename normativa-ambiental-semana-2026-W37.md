@@ -1,6 +1,6 @@
-Archivo de esta semana: https://github.com/darioEVA/normativa-ambiental-zarey/blob/claude/awesome-franklin-n2gsrs/normativa-ambiental-semana-2026-W37.md
+Archivo de esta semana: https://github.com/darioEVA/normativa-ambiental-zarey/blob/claude/awesome-franklin-u1i7vl/normativa-ambiental-semana-2026-W37.md
 
-*(Nota: el repositorio aún no tiene una rama `main` con este archivo — está publicado en la rama de trabajo `claude/awesome-franklin-n2gsrs`. El link se actualizará a `main` cuando esta rama se integre.)*
+*(Nota: el repositorio aún no tiene una rama `main` con este archivo — cada ejecución diaria trabaja en su propia rama (`claude/awesome-franklin-*`), sin integrar a `main` todavía. El link de esta ejecución apunta a la rama `claude/awesome-franklin-u1i7vl`. Se recomienda al Jefe de Gestión Ambiental fusionar la rama de la última ejecución de la semana a `main` para consolidar un único historial accesible.)*
 
 # Normativa Ambiental — Semana 2026-W37 (ZP-027)
 
@@ -25,6 +25,7 @@ Archivo de esta semana: https://github.com/darioEVA/normativa-ambiental-zarey/bl
 | Enero | 29 | Expediente de norma (anteproyecto) | Sin N° (Exp. 943281) | MMA | [Enlace](https://planesynormas.mma.gob.cl/normas/ver.php?id_expediente=943281) | Fuente fija | De interés |
 | N/D | N/D | Expediente de norma (etapa temprana) | Sin N° | MMA | [Enlace](https://ruido.mma.gob.cl/regulaciones/) | Fuente fija | De interés |
 | Febrero | 16 | Resolución (inicio revisión) | DS 38/2020 (en revisión) | MMA | [Enlace](https://www.diariooficial.interior.gob.cl/publicaciones/2026/02/16/44377/01/2769037.pdf) | Fuente fija | De interés |
+| Septiembre | 7 | Comunicado institucional (plataforma SISAT) | N/A | SMA | [Enlace](https://portal.sma.gob.cl/index.php/sma-amplia-el-sisat-para-reforzar-el-cumplimiento-de-7-planes-de-descontaminacion-atmosferica-en-el-sur-del-pais/) | Fuente fija | De interés |
 
 ---
 
@@ -187,54 +188,89 @@ Archivo de esta semana: https://github.com/darioEVA/normativa-ambiental-zarey/bl
 
 ---
 
-## Sin novedades hoy en:
+## Bloques de detalle — hallazgos nuevos (revisión del 8 de septiembre de 2026)
 
-- **Diario Oficial** — sección Normas Generales y Particulares, materia ambiental (ventana 5-7 sept. 2026): sin publicaciones nuevas verificadas.
+### 12. SMA amplía el sistema SISAT (Gestor de Obligaciones) a 7 Planes de Descontaminación Atmosférica del sur del país
+- **Tipo de norma:** Comunicado institucional / actualización de plataforma de fiscalización (no corresponde a un acto administrativo numerado; opera sobre obligaciones ya vigentes de los respectivos PPDA/PDA)
+- **N° de norma:** N/A — no se identificó resolución exenta asociada tras búsqueda adicional específica ("SMA amplía SISAT" + "resolución exenta" + fecha)
+- **Ministerio/Servicio:** SMA
+- **Fecha de publicación:** 07-09-2026
+- **Link:** https://portal.sma.gob.cl/index.php/sma-amplia-el-sisat-para-reforzar-el-cumplimiento-de-7-planes-de-descontaminacion-atmosferica-en-el-sur-del-pais/
+- **Qué establece:** Habilita el módulo "Gestor de Obligaciones" del Sistema de Seguimiento Atmosférico (SISAT) para más de 1.500 fuentes fijas afectas a 7 Planes de Prevención y/o Descontaminación Atmosférica (PPDA/PDA) en las regiones del Maule, Ñuble, La Araucanía, Los Ríos, Los Lagos y Aysén (planes de Valle Central de Curicó, Talca–Maule, Chillán–Chillán Viejo, Temuco–Padre Las Casas, Valdivia, Osorno y Coyhaique). Permite a los titulares consultar en línea sus obligaciones específicas bajo cada plan (límites de emisión, restricciones de uso de leña, protocolos en episodios críticos). No crea obligaciones sustantivas nuevas — digitaliza/centraliza el cumplimiento de obligaciones ya vigentes, replicando lo ya operativo desde 2025 en la Región Metropolitana y desde julio de 2026 en el Biobío.
+- **Alcance:** Fuentes fijas reguladas por los 7 PPDA/PDA nombrados, zona sur de Chile. No alcanza directamente a instalaciones en RM o Valparaíso (esas regiones ya cuentan con su propio módulo SISAT desde antes).
+- **Excepciones:** No identificadas.
+- **Vigencia:** Desde el 07-09-2026, en el marco del período de Gestión de Episodios Críticos (GEC) 2026.
+- **Obligación de reporte/plazo:** No introduce plazo nuevo; refuerza el reporte periódico ya exigido por cada PPDA/PDA vigente.
+- **Clasificación:** De interés — no genera obligación de cumplimiento nueva; relevante como precedente de digitalización progresiva de la fiscalización de la SMA que podría extenderse a otras regiones (RM/Valparaíso) en el futuro, con potencial impacto en clientes de esas zonas.
+- **Confianza: Alta** — confirmado en fuente oficial (portal.sma.gob.cl) y replicado sin discrepancias en Revista Electricidad (revistaei.cl), coincidentes en fecha, organismo, alcance geográfico y cifra de fuentes fijas (1.500+).
+
+---
+
+## Sin novedades por fuente (por día de revisión)
+
+### Revisión del 7 de septiembre de 2026 (ventana 5-7 sept.)
+- **Diario Oficial** — sección Normas Generales y Particulares, materia ambiental: sin publicaciones nuevas verificadas.
 - **SMA** — portal general, Sanciones y Procedimientos sancionatorios en curso: sin publicaciones nuevas en la ventana.
 - **SNIFA** — Instrucciones generales y Programas de fiscalización: sin publicaciones nuevas en la ventana.
 - **RETC** — Últimas noticias y Reportes: sin publicaciones nuevas en la ventana.
-- **MMA — noticias diarias** (estrictamente en la ventana de 3 días, fuera de los hallazgos semanales reportados arriba): sin publicaciones normativas nuevas fechadas 5-7 sept. 2026.
+- **MMA — noticias diarias:** sin publicaciones normativas nuevas fechadas 5-7 sept. 2026.
 - **SERNAGEOMIN** — resoluciones de relaves, cierre de faenas y depósitos de estériles: sin publicaciones nuevas en la ventana.
-- **DGA** — resoluciones de derechos de agua, extracción/vertimiento y planes de gestión de cuencas: sin publicaciones nuevas específicas en la ventana (solo continuidad de un programa administrativo preexistente de regularización de derechos, no reportado como hallazgo).
+- **DGA** — resoluciones de derechos de agua, extracción/vertimiento y planes de gestión de cuencas: sin publicaciones nuevas específicas en la ventana.
 - **Contraloría General de la República** — dictámenes ambientales/mineros/hídricos: sin publicaciones nuevas en la ventana.
-- **Ronda transversal** (SEREMI Medio Ambiente, Delegaciones Presidenciales Regionales, Gobiernos Regionales, municipios): sin hallazgos que pasaran el filtro de relevancia del punto 5.1 del ZP-027 tras 7 búsquedas ampliadas. Ver incidencias para detalle de lo descartado.
+- **Ronda transversal:** sin hallazgos que pasaran el filtro de relevancia del punto 5.1 del ZP-027 tras 7 búsquedas ampliadas.
+
+### Revisión del 8 de septiembre de 2026 (ventana 6-8 sept.)
+- **Diario Oficial** — Normas Generales y Particulares, ámbito ambiental: sin normas nuevas identificadas fechadas 6-8 sept. 2026 en los resultados de búsqueda disponibles (no fue posible navegar las ediciones electrónicas directamente por falla de WebFetch — ver incidencias).
+- **SNIFA** — Instrucciones Generales y Programas de fiscalización: sin publicaciones nuevas en la ventana.
+- **RETC** — Últimas noticias y Reportes: sin publicaciones nuevas en la ventana (el Informe Consolidado RETC 2022, del 3-sept-2026, queda fuera de ventana — ver descartados).
+- **MMA — noticias generales:** sin hallazgos normativos nuevos adicionales al hallazgo N°12 (SISAT es de la SMA).
+- **SERNAGEOMIN:** sin resoluciones nuevas de cierre de faenas, relaves o depósitos de estériles en la ventana.
+- **DGA:** sin resoluciones nuevas de derechos de agua, extracción/vertimiento o planes de cuenca fechadas en la ventana.
+- **Contraloría:** sin dictámenes nuevos dentro de la ventana estricta (un dictamen sobre patentes por no uso de derechos de agua quedó fuera de ventana por un día — ver descartados).
+- **Episodios críticos/alertas (RM y Concón-Quintero-Puchuncaví):** verificación específica sin preemergencias, emergencias, restricciones vehiculares ni alertas de calidad del aire activas en la ventana de 72 horas. No se generó hallazgo de alta prioridad en esta categoría.
+- **Nuevo Superintendente del Medio Ambiente (Emanuel Ibarra Soto, asumió 01-09-2026):** seguimiento institucional sin instrucción general ni programa de fiscalización nuevo verificable dentro de la ventana, más allá de la continuidad operativa reflejada en el hallazgo N°12.
 
 ---
 
 ## Incidencias técnicas
 
-1. **Bloqueo generalizado de acceso directo (WebFetch) a dominios `.gob.cl`.** Durante toda la ejecución de hoy, los intentos de acceso directo a `www.diariooficial.interior.gob.cl`, `portal.sma.gob.cl`, `snifa.sma.gob.cl`, `retc.mma.gob.cl`, `mma.gob.cl`, `sea.gob.cl`, `consultasciudadanas.mma.gob.cl`, `planesynormas.mma.gob.cl`, `dga.mop.gob.cl`, `www.sernageomin.cl`, `www.contraloria.cl`, `airerm.mma.gob.cl` y `airecqp.mma.gob.cl` fueron rechazados con `EGRESS_BLOCKED` por el proxy de salida del entorno de ejecución. En algunos casos también fallaron sitios de prensa (`induambiente.com`, `emol.com`). **No se trata necesariamente del 403 anti-bot específico anticipado para SMA/SNIFA/RETC** — es un bloqueo más amplio del entorno que afectó prácticamente todos los dominios oficiales probados. Como WebSearch sí funcionó con normalidad y devolvió resultados verificables (incluyendo snippets indexados de esos mismos dominios oficiales), toda la revisión se basó en búsqueda web, no en lectura directa de las páginas fuente.
-   - **Efecto en la confianza:** para las fuentes que resultaron "sin novedades" (Diario Oficial, SMA, SNIFA, RETC, SERNAGEOMIN, DGA, Contraloría), esta conclusión tiene confianza Media-Baja respecto a completitud, no "ausencia confirmada con alta confianza" — no puede descartarse al 100% que exista una publicación muy reciente (5-7 sept.) aún no indexada por los buscadores.
-   - **Recomendación:** reintentar el acceso directo a estos portales en la próxima ejecución (el bloqueo podría ser específico de este entorno/sesión) o habilitar verificación manual puntual, especialmente para SMA y SNIFA dado que el 1 de septiembre de 2026 asumió un nuevo Superintendente del Medio Ambiente (Emanuel Ibarra Soto) con agenda declarada "enfocada en fiscalización", lo que podría anticipar nuevas instrucciones o programas de fiscalización en los días inmediatamente posteriores a esta revisión.
-   - Los paneles `airerm.mma.gob.cl` y `airecqp.mma.gob.cl` (episodios críticos RM y Concón-Quintero-Puchuncaví) tampoco pudieron verificarse directamente; se sugiere evaluar agregarlos formalmente a la Tabla 1 de fuentes fijas con un método de acceso alternativo, dado que son la fuente primaria de alertas con impacto operativo inmediato para clientes en la Región de Valparaíso (AA Chagres, Ventanas).
+### Revisión del 7 de septiembre de 2026
 
-2. **Elementos descartados en la ronda transversal** (no cumplieron el criterio de relevancia del punto 5.1 y no se reportan como hallazgo): calidad del aire "buena" sin alertas en RM y Valparaíso el 5-sept-2026; convocatoria a integrar el Consejo Consultivo Ambiental de la RM (administrativo, sin obligación); Alerta Sanitaria MINSAL Concón-Quintero-Puchuncaví (de oct-2025, desactualizada); multa del Tribunal Ambiental a Complejo Ventanas por incumplir su PPDA (de abril-2026, fuera de ventana); estudio de antecedentes para revisión del PPDA Concón-Quintero-Puchuncaví (sin fecha confirmada en la ventana); búsqueda sobre Til Til/RHONA (sin resultados relevantes); ordenanzas ambientales municipales (solo modelo genérico, sin acto puntual reciente).
+1. **Bloqueo generalizado de acceso directo (WebFetch) a dominios `.gob.cl`.** Durante la ejecución del 7-sept, los intentos de acceso directo a `www.diariooficial.interior.gob.cl`, `portal.sma.gob.cl`, `snifa.sma.gob.cl`, `retc.mma.gob.cl`, `mma.gob.cl`, `sea.gob.cl`, `consultasciudadanas.mma.gob.cl`, `planesynormas.mma.gob.cl`, `dga.mop.gob.cl`, `www.sernageomin.cl`, `www.contraloria.cl`, `airerm.mma.gob.cl` y `airecqp.mma.gob.cl` fueron rechazados con `EGRESS_BLOCKED`. En algunos casos también fallaron sitios de prensa (`induambiente.com`, `emol.com`). WebSearch funcionó con normalidad y fue la base de toda la revisión.
+   - **Efecto en la confianza:** para las fuentes "sin novedades" esa conclusión tiene confianza Media-Baja respecto a completitud.
+   - **Recomendación:** reintentar el acceso directo a estos portales en próximas ejecuciones; evaluar agregar `airerm.mma.gob.cl` y `airecqp.mma.gob.cl` a la Tabla 1 de fuentes fijas dado que son la fuente primaria de alertas con impacto operativo inmediato para clientes de Valparaíso (AA Chagres, Ventanas).
+2. **Elementos descartados en la ronda transversal del 7-sept:** calidad del aire "buena" sin alertas en RM y Valparaíso el 5-sept-2026; convocatoria a integrar el Consejo Consultivo Ambiental de la RM (administrativo, sin obligación); Alerta Sanitaria MINSAL Concón-Quintero-Puchuncaví (de oct-2025, desactualizada); multa del Tribunal Ambiental a Complejo Ventanas por incumplir su PPDA (de abril-2026, fuera de ventana); estudio de antecedentes para revisión del PPDA Concón-Quintero-Puchuncaví (sin fecha confirmada); búsqueda sobre Til Til/RHONA (sin resultados relevantes); ordenanzas ambientales municipales (solo modelo genérico).
+3. **Alerta de posible alucinación en resultados de búsqueda:** un resumen de búsqueda de la ronda transversal (Quintero/Puchuncaví/Ventanas) mencionó una fecha futura ("domingo 28 de septiembre de 2026"), indicando contenido no verificable. No se reportó como hallazgo.
+4. **Contexto histórico fuera de ventana (solo antecedente de seguimiento):** sumario de Contraloría a SERNAGEOMIN por irregularidades en 57 de 72 planes de cierre de faenas; informe de Contraloría sobre 7.150 faenas mineras no fiscalizadas por más de dos años; solicitud de Aysén a Contraloría Regional por caso tranque Confluencia (Minera El Toqui); Plan de Descontaminación Cuenca del Lago Villarrica (13-08-2026); cambio de Alerta Técnica del volcán Villarrica (riesgo volcánico, no ambiental-minero, descartado del mandato).
 
-3. **Alerta de posible alucinación en resultados de búsqueda:** uno de los resúmenes de búsqueda de la ronda transversal (consulta sobre Quintero/Puchuncaví/Ventanas) mencionó una fecha futura respecto a la fecha de esta revisión ("domingo 28 de septiembre de 2026"), lo que indica que ese contenido específico no proviene de una fuente real verificable. **No se reporta como hallazgo.** Se deja constancia para que el equipo esté alerta a este tipo de artefacto de las herramientas de búsqueda automatizada en próximas revisiones.
+### Revisión del 8 de septiembre de 2026
 
-4. **Contexto histórico verificado pero fuera de la ventana de 3 días** (no reportado como hallazgo, solo antecedente de seguimiento para revisiones futuras): sumario de Contraloría a SERNAGEOMIN por irregularidades en 57 de 72 planes de cierre de faenas revisados; informe de Contraloría sobre 7.150 faenas mineras no fiscalizadas por más de dos años; solicitud de organizaciones de Aysén a Contraloría Regional por eventual incumplimiento de SERNAGEOMIN en el caso tranque Confluencia (Minera El Toqui); Plan de Descontaminación de la Cuenca del Lago Villarrica (13-08-2026, bajo interés directo para el rubro de clientes de Zarey); cambio de Alerta Técnica del volcán Villarrica de Verde a Amarilla (4-5-sept-2026, riesgo volcánico, no ambiental-minero — evaluado y descartado del mandato).
+5. **Fallo GENERAL de WebFetch (no solo dominios `.gob.cl`).** A diferencia del 7-sept, hoy WebFetch falló con `EGRESS_BLOCKED` incluso para dominios de control no gubernamentales y no chilenos (`google.com`, `en.wikipedia.org`, `www.emol.com`, `www.induambiente.com`), además de los dominios oficiales (`portal.sma.gob.cl`, `mma.gob.cl`, `diariooficial.interior.gob.cl`, `contraloria.cl`). Esto indica un **fallo general de la herramienta en esta sesión, no un bloqueo específico de dominio** (según el criterio de distinción del punto 6 del procedimiento). WebSearch funcionó con normalidad y fue la única vía de acceso a información utilizada. No se interpreta como "ausencia de novedades" en las fuentes afectadas — deben reintentarse con acceso directo en la próxima ejecución, en particular Diario Oficial (ediciones 7 y 8 de sept.) y la sala de prensa de la SMA.
+6. **Elementos descartados en la ronda transversal / fuera de ventana del 8-sept:** dictamen de Contraloría sobre patentes por no uso de derechos de agua (01-09-2026, un día fuera de ventana); Informe Consolidado RETC de Emisiones y Transferencia de Contaminantes 2022 (03-09-2026, fuera de ventana); consulta ciudadana del Plan de Adaptación al Cambio Climático para Recursos Hídricos — verificada como correspondiente a **2024**, no 2026 (descartada por error de fecha en resultado de búsqueda inicial); cierre definitivo de Mina Invierno (SERNAGEOMIN, junio 2026, fuera de ventana); listado mensual de DIA ingresadas en agosto y apertura de plazo de Participación Ciudadana (SEA, 01-09-2026, proceso administrativo rutinario recurrente, fuera de ventana); antecedentes del caso Comité de Ministros/Dominga (todos de dic-2024/ene-2025, sin desarrollo nuevo); RHONA S.A. y Fundición Chagres (Anglo American) sin novedades regulatorias o de fiscalización específicas en la ventana.
+7. **Hallazgo de ronda transversal descartado por no ser normativa (no cumple 5.1):** reporte de récord de inversión aprobada por el SEIA (US$32.923 millones en los primeros ~6 meses del gobierno, difundido el 07-09-2026 por Radio U. de Chile y replicado por La Tercera, Revista Electricidad y otros). Es un reporte estadístico/de gestión, no un acto que regule, establezca o modifique obligaciones — no tiene tipo de norma, N° de norma, vigencia ni alcance normativo identificable. Se descarta como hallazgo de la tabla y se deja solo como contexto: indica una tendencia de aceleración en la tramitación ambiental (sectores energía, agua e infraestructura) que podría anticipar mayor volumen de proyectos evaluados para clientes del rubro industrial/minero, sin constituir por sí mismo normativa aplicable o de interés.
 
 ---
 
 ## Gestión de vencimientos
 
-No aplica esta semana — es la primera ejecución del archivo semanal 2026-W37, no hay plazos de proyectos de ley o consultas ciudadanas previamente registrados en este archivo que revisar. La consulta ECLP (hallazgo 7, cierra 22-09-2026) y la consulta del Reglamento SEIA (hallazgo 1, cierra 11-09-2026) quedan registradas para seguimiento de vencimiento en las próximas ejecuciones de esta misma semana.
+*(revisado al 08-09-2026)* Ningún plazo registrado en esta semana venció entre la revisión del 7 y la del 8 de septiembre. Se mantienen abiertos: la consulta pública del Reglamento SEIA (hallazgo 1, cierra 11-09-2026 — vence en 3 días) y la consulta de la Estrategia Climática de Largo Plazo (hallazgo 7, cierra 22-09-2026). El plazo del DS 38/2020 (hallazgo 11) ya figuraba cerrado desde el 02-04-2026. Se recomienda dar seguimiento prioritario al cierre de la consulta del Reglamento SEIA en la próxima ejecución (09-09-2026), por vencer en el corto plazo.
 
 ---
 
 ## Resumen de la semana
 
-*(actualizado al 07-09-2026, primer día de la semana)*
+*(actualizado al 08-09-2026, día 2 de la semana)*
 
-- **Total hallazgos registrados:** 11
+- **Total hallazgos registrados:** 12
 - **Total "Aplicable":** 2 (Modificación de guías SEA por DS 17/2025; DS 14/2024 — Norma de Emisión de Ruido para Fuentes Fijas)
-- **Total "De interés":** 9, de los cuales:
+- **Total "De interés":** 10, de los cuales:
   - 1 marcado **"De interés — ALTA PRIORIDAD DE VALIDACIÓN"** (Consulta ECLP, cierra 22-09-2026)
   - 1 con **Confianza Baja**, requiere verificación manual prioritaria (Norma Primaria de Calidad Ambiental para Ruido)
-- **Pendientes de validación del Jefe de Gestión Ambiental:** 9 (todos los hallazgos "De interés" listados arriba, por criterio conservador del ZP-027)
-- **Fuentes fijas sin novedades en la ventana de 3 días:** Diario Oficial, SMA, SNIFA, RETC, MMA (noticias diarias), SERNAGEOMIN, DGA, Contraloría
-- **Ronda transversal:** sin hallazgos que pasaran el filtro de relevancia
-- **Incidencias abiertas:** bloqueo de red (`EGRESS_BLOCKED`) que impidió verificación directa en prácticamente todos los portales oficiales — ver sección de Incidencias técnicas
+- **Pendientes de validación del Jefe de Gestión Ambiental:** 10 (todos los hallazgos "De interés" listados arriba, por criterio conservador del ZP-027)
+- **Fuentes fijas sin novedades en la ventana de 3 días (revisión 8-sept):** Diario Oficial, SNIFA, RETC, MMA (más allá del hallazgo 12), SERNAGEOMIN, DGA, Contraloría
+- **Ronda transversal (8-sept):** 1 hallazgo identificado (récord de inversión SEIA) descartado por no constituir normativa
+- **Plazos próximos a vencer:** consulta Reglamento SEIA cierra 11-09-2026 (en 3 días)
+- **Incidencias abiertas:** fallo general de WebFetch en la sesión del 8-sept (no específico de dominio) que impidió verificación directa en portales oficiales — ver sección de Incidencias técnicas
 
 ---
 
