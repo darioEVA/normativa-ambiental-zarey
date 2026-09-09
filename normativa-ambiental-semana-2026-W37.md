@@ -1,6 +1,6 @@
 # Normativa Ambiental — Semana 2026-W37 (7 al 13 de septiembre de 2026)
 
-**Archivo de esta semana:** https://github.com/darioeva/normativa-ambiental-zarey/blob/claude/awesome-franklin-yk4acb/normativa-ambiental-semana-2026-W37.md
+**Archivo de esta semana:** https://github.com/darioEVA/normativa-ambiental-zarey/blob/claude/awesome-franklin-yk4acb/normativa-ambiental-semana-2026-W37.md
 
 > **Nota de inicio:** este archivo se crea por primera vez el miércoles 9 de septiembre de 2026 (no existía historial previo en el repositorio). No se ejecutaron corridas automatizadas el lunes 7 ni el martes 8 de septiembre. Sin embargo, la ventana de búsqueda ampliada de 3 días corridos usada en esta ejecución (6 al 9 de septiembre) cubre en la práctica esos dos días, por lo que no se identifica una brecha material de cobertura para esta semana.
 
