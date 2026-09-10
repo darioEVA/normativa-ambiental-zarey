@@ -1,6 +1,6 @@
 # Normativa Ambiental — Semana ISO 2026-W37 (07 al 13 de septiembre de 2026)
 
-**Archivo de esta semana:** https://github.com/darioeva/normativa-ambiental-zarey/blob/claude/awesome-franklin-ow8936/normativa-ambiental-semana-2026-W37.md
+**Archivo de esta semana:** https://github.com/darioEVA/normativa-ambiental-zarey/blob/claude/awesome-franklin-ow8936/normativa-ambiental-semana-2026-W37.md
 
 > **Nota:** esta rutina se activó por primera vez el jueves 10-09-2026 (mitad de semana). Este archivo **no cubre lunes 07 ni martes 08 de septiembre como ejecuciones propias** — la ventana de búsqueda ampliada de 3 días corridos de la ejecución de hoy (08–10 sept.) cubre parcialmente esos días, pero no hubo ejecución diaria dedicada para ellos.
 
