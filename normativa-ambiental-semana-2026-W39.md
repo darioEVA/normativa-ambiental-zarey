@@ -1,6 +1,6 @@
 # Revisión Normativa Ambiental — Semana 2026-W39 (21–27 septiembre 2026)
 
-Archivo de esta semana: https://github.com/darioeva/normativa-ambiental-zarey/blob/claude/awesome-franklin-tk6ixt/normativa-ambiental-semana-2026-W39.md
+Archivo de esta semana: https://github.com/darioEVA/normativa-ambiental-zarey/blob/claude/awesome-franklin-tk6ixt/normativa-ambiental-semana-2026-W39.md
 
 Procedimiento: ZP-027 "Servicio de Identificación de Normativa Aplicable a Clientes" — Zarey Consultores. Ámbito: Ambiental.
 
