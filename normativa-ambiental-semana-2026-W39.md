@@ -1,6 +1,6 @@
 # Vigilancia Normativa Ambiental — Semana ISO 2026-W39
 
-**Archivo de esta semana:** https://github.com/darioeva/normativa-ambiental-zarey/blob/claude/awesome-franklin-tc1dlx/normativa-ambiental-semana-2026-W39.md
+**Archivo de esta semana:** https://github.com/darioEVA/normativa-ambiental-zarey/blob/claude/awesome-franklin-tc1dlx/normativa-ambiental-semana-2026-W39.md
 *(Este link apunta a la rama de trabajo `claude/awesome-franklin-tc1dlx`, aún no fusionada a `main`; si el archivo se fusiona posteriormente, el link definitivo será el mismo con `/blob/main/` en lugar de `/blob/claude/awesome-franklin-tc1dlx/`.)*
 
 > **Nota:** esta rutina se activó por primera vez el jueves 24-09-2026. La semana ISO 2026-W39 se inició desde ese día — este archivo **no cubre lunes 21 a miércoles 23 de septiembre** de forma retroactiva salvo por hallazgos capturados dentro de la ventana de búsqueda ampliada de 3 días corridos aplicada en esta ejecución (22–24 de septiembre).
