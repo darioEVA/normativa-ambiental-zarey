@@ -1,6 +1,6 @@
 # Normativa Ambiental — Semana ISO 2026-W39 (21–27 septiembre 2026)
 
-Archivo de esta semana: https://github.com/darioeva/normativa-ambiental-zarey/blob/claude/awesome-franklin-o0r0sx/normativa-ambiental-semana-2026-W39.md
+Archivo de esta semana: https://github.com/darioEVA/normativa-ambiental-zarey/blob/claude/awesome-franklin-o0r0sx/normativa-ambiental-semana-2026-W39.md
 
 > **Nota:** esta rutina se activó por primera vez el sábado 26 de septiembre de 2026 (no es lunes). No existe un archivo previo de la semana ISO 2026-W39, por lo que se crea ahora. **Semana iniciada desde sábado 26, no cubre días previos de esta semana** (lunes 21 a viernes 25 de septiembre no fueron monitoreados por esta rutina).
 
