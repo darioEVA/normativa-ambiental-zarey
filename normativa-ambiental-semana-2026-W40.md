@@ -1,6 +1,6 @@
 # Normativa Ambiental — Semana 2026-W40 (lunes 28-09-2026 a domingo 04-10-2026)
 
-Archivo de esta semana: https://github.com/darioeva/normativa-ambiental-zarey/blob/claude/awesome-franklin-je79fv/normativa-ambiental-semana-2026-W40.md
+Archivo de esta semana: https://github.com/darioEVA/normativa-ambiental-zarey/blob/claude/awesome-franklin-je79fv/normativa-ambiental-semana-2026-W40.md
 
 Procedimiento de referencia: ZP-027 "Servicio de Identificación de Normativa Aplicable a Clientes" — ámbito Ambiental.
 
@@ -12,6 +12,7 @@ Nota: esta ejecución corresponde al lunes de inicio de semana, por lo que la ta
 |---|---|---|---|---|---|---|---|
 | Septiembre | 23 | Resolución Exenta | 2.903 | MOP — Dirección General de Aguas (DGA) | [La Hora](https://lahora.cl/cronica/2026/09/24/derechos-de-agua-en-chile-la-nueva-regla-de-la-dga) | Fuente fija | Interés |
 | Septiembre | 24 | Plan (instrumento de adaptación climática) | Pendiente | MOP-DGA / Ministerio del Medio Ambiente | [DGA](https://dga.mop.gob.cl/plan-de-adaptacion-al-cambio-climatico-en-recursos-hidricos-10-medidas-y-35-acciones-para-la-seguridad-hidrica/) | Fuente fija | Interés |
+
 
 ## Bloques detallados — hallazgos nuevos de esta ejecución (28-09-2026)
 
