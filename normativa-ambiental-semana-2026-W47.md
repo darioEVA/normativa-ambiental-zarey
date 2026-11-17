@@ -1,6 +1,6 @@
-Archivo de esta semana: https://github.com/darioEVA/normativa-ambiental-zarey/blob/claude/awesome-franklin-qg3yjt/normativa-ambiental-semana-2026-W47.md
+Archivo de esta semana: https://github.com/darioEVA/normativa-ambiental-zarey/blob/claude/awesome-franklin-m8br38/normativa-ambiental-semana-2026-W47.md
 
-> Nota de ubicación: el archivo se guarda en la rama de trabajo `claude/awesome-franklin-qg3yjt` (la rutina no tiene permiso para escribir directamente en `main`). Cuando se integre a `main`, la ruta pasa a ser `https://github.com/darioEVA/normativa-ambiental-zarey/blob/main/normativa-ambiental-semana-2026-W47.md`.
+> Nota de ubicación: el archivo se guarda en la rama de trabajo `claude/awesome-franklin-m8br38` (contiene también lo registrado el lunes en `claude/awesome-franklin-qg3yjt`) (la rutina no tiene permiso para escribir directamente en `main`). Cuando se integre a `main`, la ruta pasa a ser `https://github.com/darioEVA/normativa-ambiental-zarey/blob/main/normativa-ambiental-semana-2026-W47.md`.
 
 # Revisión de normativa ambiental — ZP-027 — Semana 2026-W47 (16 al 22 de noviembre de 2026)
 
@@ -15,6 +15,7 @@ Semana iniciada el lunes 16-11-2026 (archivo nuevo de la semana; no arrastra fil
 | Noviembre | 13 | Resolución Exenta | 6.173 | Ministerio del Medio Ambiente | https://www.diariooficial.interior.gob.cl/edicionelectronica/index.php?date=13-11-2026&edition=44598 | Fuente fija | Interés |
 | Noviembre | 9 | Ley | 21.847 | Ministerio del Medio Ambiente | https://mma.gob.cl/ministerio-del-medio-ambiente-informa-modificaciones-a-la-ley-de-plasticos-de-un-solo-uso/ | Fuente fija | Interés |
 | Octubre | 16 | Resolución Exenta | 5.490 | Ministerio del Medio Ambiente | https://mma.gob.cl/arrancan-talleres-de-participacion-ciudadana-para-abordar-normativa-de-proteccion-de-las-aguas-de-los-lagos-nor-patagonicos/ | Fuente fija | Interés |
+| Noviembre | 13 | Sentencia | Pendiente | Tercer Tribunal Ambiental | https://www.emol.com/noticias/Economia/2026/11/13/1217037/tribunal-ambiental-advertencia-resolucion-comercio.html | Ronda transversal | Interés |
 
 ## Detalle de hallazgos
 
@@ -112,11 +113,57 @@ Semana iniciada el lunes 16-11-2026 (archivo nuevo de la semana; no arrastra fil
 
 > Hallazgos marcados como 'De interés' con duda de aplicabilidad requieren validación del Jefe de Gestión Ambiental antes de comunicarse como aplicables a clientes.
 
+### Ejecución martes 17-11-2026
+
+**Gestión de vencimientos:** se revisaron los plazos de la semana. La consulta ciudadana de los lagos nor-patagónicos (hallazgo 4) sigue abierta hasta el 13-01-2027, así que no hay plazos vencidos.
+
+#### 5. Tercer Tribunal Ambiental — Sentencia que restringe el acceso a Programas de Cumplimiento (PdC) a nivel de empresa titular y no de unidad fiscalizable
+- **Tipo de norma:** Sentencia judicial (jurisprudencia que cambia cómo se interpreta una obligación vigente; no es una norma nueva)
+- **N° de norma:** N° pendiente de publicación oficial — solo comunicado de prensa disponible a la fecha de esta revisión. Se hizo una búsqueda adicional (Tercer Tribunal Ambiental + programa de cumplimiento + unidad fiscalizable + noviembre 2026) sin encontrar el rol de la causa.
+- **Emisor:** Tercer Tribunal Ambiental (Valdivia)
+- **Fecha de publicación:** la sentencia se difundió en prensa el 13-11-2026 (Emol, carta de la presidenta de la CPC en El Mercurio) y se replicó el 14-11-2026 (Nuevo Poder). **Nota de detección:** no se registró el lunes 16-11. Se incluye porque la cobertura del 14-11 cae dentro de la ventana de 3 días; la fecha exacta de la sentencia no está confirmada.
+- **Link:** https://www.emol.com/noticias/Economia/2026/11/13/1217037/tribunal-ambiental-advertencia-resolucion-comercio.html (complementario: https://www.nuevopoder.cl/fallo-ambiental-limita-planes-de-cumplimiento-a-empresas-con-varias-instalaciones-alerta-cpc/)
+- **Origen:** Ronda transversal (tribunales ambientales no están en la Tabla 1)
+- **Contenido:**
+  - **Qué establece/restringe:** según la prensa, el tribunal interpreta la restricción del art. 42 de la LOSMA a nivel de empresa titular. Esa norma impide presentar un PdC a quien ya usó ese instrumento dentro de los 3 años previos. Con ese criterio, una empresa que ya tuvo un PdC por infracción grave en una instalación no podría presentar otro por una infracción grave en una instalación distinta dentro de ese plazo. Hasta ahora, la práctica de la SMA aplicaba la restricción por unidad fiscalizable. El efecto práctico es que la empresa pierde la vía de corregir la infracción sin multa y el procedimiento sancionatorio sigue adelante.
+  - **Alcance:** titulares con más de una unidad fiscalizable (la prensa menciona expresamente a mineras con varias faenas, eléctricas, constructoras y comercio). Afecta directamente a clientes de Zarey con varias instalaciones bajo fiscalización de la SMA.
+  - **Excepciones:** no informadas.
+  - **Vigencia:** es un criterio jurisprudencial; solo obliga en la causa concreta, pero puede orientar decisiones futuras de la SMA y de los tribunales. Según la prensa, la SMA y la CPC cuestionan el criterio. No se pudo confirmar si se recurrió de casación ante la Corte Suprema.
+  - **Obligación de reporte/plazo:** sin obligación nueva de reporte. Recomendación operativa: revisar si algún cliente con varias unidades fiscalizables tuvo un PdC aprobado en los últimos 3 años, porque podría quedar sin acceso a un nuevo PdC si este criterio se consolida.
+- **Clasificación:** De interés — requiere validación del Jefe de Gestión Ambiental (puede afectar la estrategia de defensa de clientes multi-instalación).
+- **Verificación cruzada:** 1ª búsqueda: prensa (Emol 13-11-2026; Nuevo Poder ~14-11-2026). Ambas coinciden en el tribunal, el criterio (titular vs. unidad fiscalizable, plazo de 3 años) y la crítica de la CPC. 2ª búsqueda: sitio oficial 3ta.cl. Aparecen fallos previos sobre la misma regla (Australis Mar, enero 2026: rechazo de PdC por un PdC anterior dentro de 3 años, en el *mismo* proyecto) y un fallo de noviembre 2026 que acoge reclamaciones contra el PdC de Australis Mar en el centro Muñoz Gamero 1 (R-6-2025 y R-7-2025). No se pudo confirmar si alguno de ellos es la sentencia que critica la CPC. El fetch directo a 3ta.cl y nuevopoder.cl falló (ver incidencias).
+- **Confianza:** Baja — **requiere verificación manual prioritaria antes de comunicarse a cualquier cliente** (solo prensa, sin rol ni texto oficial verificable; posible discrepancia sobre cuál causa es).
+
+#### Revisados y descartados (17-11-2026)
+- SMA, 16-11-2026: aprobación de programas de cumplimiento de pisciculturas o centros salmoneros en Los Lagos y Magallanes (titular del portal SMA, indexado sin detalle). Rubro acuícola, sin relación con clientes industriales o mineros de Zarey.
+- Segundo Tribunal Ambiental, 13-11-2026: suspensión cautelar por 30 días de la RCA de "Prospección Minera El Alto" (Atacama). Es un acto sobre un proyecto específico de un tercero; no crea ni modifica obligaciones generales.
+- SMA, 11/12-11-2026: formulación de cargos a los parques fotovoltaicos Granate y Tamarico (republicada el 16-11 por Redimin). Ya descartada el lunes; fuera del rubro de los clientes.
+
+#### Incidencias de la ejecución del 17-11-2026
+- **Fallo técnico temporal, no específico de la fuente:** el fetch directo volvió a fallar por resolución DNS en todos los dominios probados (diariooficial.interior.gob.cl, 3ta.cl, nuevopoder.cl). Es la misma restricción de red de la sesión que el lunes: hay que permitir esos dominios en la configuración de red del entorno. Toda la revisión se hizo por búsqueda web. **No debe interpretarse como ausencia de novedades.**
+- **Diario Oficial:** las ediciones del sábado 14-11, lunes 16-11 y martes 17-11-2026 siguen sin aparecer en los buscadores (lo último indexado es la edición 44.598 del 13-11). **Reintentar manualmente o en la próxima ejecución**; esas ediciones quedan sin revisar.
+- **SNIFA y RETC:** sin publicaciones indexadas del período; no se pudo hacer fetch de respaldo. Reintentar.
+- Fuentes semanales (SEA, banners MMA, consultas ciudadanas, expedientes) y mensuales (INN, ISO) no corresponden hoy (martes, no es primer día hábil del mes).
+
+#### Sin novedades hoy en (según búsqueda web; ver incidencias):
+- Diario Oficial: ediciones del 14, 16 y 17-11 no disponibles en los buscadores (incidencia; no es lo mismo que "sin novedades")
+- SMA: portal, sanciones y procedimientos sancionatorios. No hay sanciones, clausuras ni medidas provisionales nuevas del 14 al 17-11 relevantes para el rubro.
+- SNIFA: instrucciones generales y programas de fiscalización (rigen los programas 2026, Res. Ex. 2993-2999/2025; nada nuevo)
+- RETC: noticias y reportes
+- MMA: noticias (nada nuevo después de lo registrado el lunes)
+- SERNAGEOMIN: sin resoluciones nuevas sobre relaves, depósitos de estériles o cierre de faenas
+- DGA: sin decretos de escasez hídrica ni resoluciones nuevas (las últimas prórrogas son de agosto-septiembre de 2026)
+- Contraloría: sin dictámenes nuevos en materia ambiental, minera o hídrica (el último relevante es el Informe Final N° 528, del 05-10-2026, sobre el plan de Calama)
+- Episodios críticos y alertas de calidad del aire: ninguno declarado del 14 al 17-11 (fuera de temporada GEC). Sigue la alerta preventiva por calor de SENAPRED hasta el 31-03-2027, que es contexto y no norma ambiental.
+
+> Hallazgos marcados como 'De interés' con duda de aplicabilidad requieren validación del Jefe de Gestión Ambiental antes de comunicarse como aplicables a clientes.
+
 ## Resumen de la semana
-*(actualizado al 16-11-2026)*
+*(actualizado al 17-11-2026)*
 
 - Total de hallazgos **Aplicable:** 0
-- Total de hallazgos **De interés:** 4 (1 de ellos con ALTA PRIORIDAD DE VALIDACIÓN)
-- **Pendientes de validación** por el Jefe de Gestión Ambiental: 3 (SMA oficio calor extremo, Res. Ex. 6.173/2026, Ley 21.847)
-- Hallazgos con Confianza Baja (verificación manual prioritaria): 0
-- Origen: 4 de fuentes fijas y 0 de la ronda transversal
+- Total de hallazgos **De interés:** 5 (1 de ellos con ALTA PRIORIDAD DE VALIDACIÓN)
+- **Pendientes de validación** por el Jefe de Gestión Ambiental: 4 (SMA oficio calor extremo, Res. Ex. 6.173/2026, Ley 21.847, sentencia del Tercer Tribunal Ambiental sobre PdC)
+- Hallazgos con Confianza Baja (verificación manual prioritaria): 1 (sentencia del Tercer Tribunal Ambiental sobre PdC)
+- Origen: 4 de fuentes fijas y 1 de la ronda transversal
+- Pendiente de reintento: ediciones del Diario Oficial del 14, 16 y 17-11-2026
