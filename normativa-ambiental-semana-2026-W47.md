@@ -1,6 +1,6 @@
-Archivo de esta semana: https://github.com/darioEVA/normativa-ambiental-zarey/blob/claude/awesome-franklin-m8br38/normativa-ambiental-semana-2026-W47.md
+Archivo de esta semana: https://github.com/darioEVA/normativa-ambiental-zarey/blob/claude/awesome-franklin-kgjdjw/normativa-ambiental-semana-2026-W47.md
 
-> Nota de ubicación: el archivo se guarda en la rama de trabajo `claude/awesome-franklin-m8br38` (contiene también lo registrado el lunes en `claude/awesome-franklin-qg3yjt`) (la rutina no tiene permiso para escribir directamente en `main`). Cuando se integre a `main`, la ruta pasa a ser `https://github.com/darioEVA/normativa-ambiental-zarey/blob/main/normativa-ambiental-semana-2026-W47.md`.
+> Nota de ubicación: desde el 18-11-2026 el archivo se guarda en la rama de trabajo `claude/awesome-franklin-kgjdjw`, que contiene todo lo registrado el lunes (`claude/awesome-franklin-qg3yjt`) y el martes (`claude/awesome-franklin-m8br38`) (la rutina no tiene permiso para escribir directamente en `main`). Cuando se integre a `main`, la ruta pasa a ser `https://github.com/darioEVA/normativa-ambiental-zarey/blob/main/normativa-ambiental-semana-2026-W47.md`.
 
 # Revisión de normativa ambiental — ZP-027 — Semana 2026-W47 (16 al 22 de noviembre de 2026)
 
@@ -158,12 +158,48 @@ Semana iniciada el lunes 16-11-2026 (archivo nuevo de la semana; no arrastra fil
 
 > Hallazgos marcados como 'De interés' con duda de aplicabilidad requieren validación del Jefe de Gestión Ambiental antes de comunicarse como aplicables a clientes.
 
+### Ejecución miércoles 18-11-2026
+
+**Gestión de vencimientos:** la consulta ciudadana de los lagos nor-patagónicos (hallazgo 4) sigue abierta hasta el 13-01-2027, así que no hay plazos vencidos. Talleres ya realizados: Cunco (17-11). Próximo taller: Coñaripe (19-11).
+
+**Hallazgos nuevos hoy:** ninguno. No se encontraron publicaciones ambientales nuevas del 15 al 18-11-2026 que cumplan el criterio del punto 5.1 y que no estuvieran ya registradas en esta semana o en la anterior.
+
+#### Actualización de hallazgos previos (no es hallazgo nuevo; no agrega fila)
+- **Hallazgo 5 (sentencia del Tercer Tribunal Ambiental sobre PdC):** una nueva búsqueda indica, según Emol (13-11-2026), que la sentencia es del **30-10-2026**. La causa sería de una empresa salmonera cuyo PdC la SMA aprobó en enero de 2025. Esto es coherente con las causas de Australis Mar mencionadas el martes, pero sigue sin confirmarse el rol. La confianza se mantiene **Baja**: requiere verificación manual en 3ta.cl antes de comunicarse a clientes.
+
+#### Revisados y descartados (18-11-2026)
+- Ley N° 21.853 (DO 05-11-2026), que modifica el Código de Minería en materia de amparo y patentes mineras. Ya está registrada en el archivo de la semana W46, así que no se duplica.
+- SMA, Res. Ex. N° 2.852 (03-11-2026): término del procedimiento sancionatorio Rol D-166-2021 contra Minera Candelaria. Es un acto sobre un caso específico de un tercero, fuera de la ventana de 3 días; no crea obligaciones generales.
+- SMA, 16-11-2026: aprobación de PdC de centros de engorda de salmones. Ya se descartó el martes (rubro acuícola).
+- SMA, 09-11-2026: formulación de cargos al Edificio Santa Elena 2000 por norma de ruido. Es un caso específico, fuera de la ventana y del rubro de los clientes.
+- SEA, mejoras de geoinformación en e-SEIA (~09-11-2026): fuera de la ventana; es una mejora de plataforma, no una norma. La fuente SEA es semanal (lunes).
+
+#### Incidencias de la ejecución del 18-11-2026
+- **Fallo técnico temporal, no específico de la fuente:** el fetch directo falló otra vez por resolución DNS, incluido el sitio de control google.com y diariooficial.interior.gob.cl. Es la misma restricción de red de la sesión que el lunes y el martes. Hay que permitir esos dominios en la configuración de red del entorno. Toda la revisión se hizo por búsqueda web. **No debe interpretarse como ausencia de novedades.**
+- **Diario Oficial:** las ediciones del 14, 16, 17 y 18-11-2026 siguen sin aparecer en los buscadores (lo último indexado es la edición 44.598 del 13-11). **Cuatro ediciones quedan sin revisar: revisión manual recomendada.**
+- **SNIFA y RETC:** las búsquedas no devuelven contenido chileno del período (los resultados son de otros países). No hubo fetch de respaldo. Reintentar.
+- Las fuentes semanales (lunes) y mensuales (primer día hábil) no corresponden hoy.
+
+#### Sin novedades hoy en (según búsqueda web; ver incidencias):
+- Diario Oficial: ediciones del 14 al 18-11 no indexadas (incidencia; no es lo mismo que "sin novedades")
+- SMA: portal, sanciones y procedimientos sancionatorios. No hay sanciones nuevas en noviembre; las últimas formulaciones de cargos (Granate y Tamarico) ya se descartaron.
+- SNIFA: instrucciones generales y programas de fiscalización (sin contenido indexado; reintentar)
+- RETC: noticias y reportes (sin contenido indexado; reintentar)
+- MMA: noticias (lo último indexado es del 13-11, ya registrado)
+- SERNAGEOMIN: sin resoluciones nuevas sobre relaves, depósitos de estériles o cierre de faenas
+- DGA: sin decretos de escasez hídrica ni resoluciones nuevas (las últimas prórrogas son de julio-agosto de 2026)
+- Contraloría: sin dictámenes ni tomas de razón nuevas en materia ambiental, minera o hídrica
+- Ronda transversal (SEREMI MMA Valparaíso, delegaciones presidenciales, episodios críticos, normas de emisión y planes, Ley REP): sin novedades. No hay episodios críticos ni alertas de calidad del aire declarados (fuera de temporada GEC).
+
+> Hallazgos marcados como 'De interés' con duda de aplicabilidad requieren validación del Jefe de Gestión Ambiental antes de comunicarse como aplicables a clientes.
+
 ## Resumen de la semana
-*(actualizado al 17-11-2026)*
+*(actualizado al 18-11-2026)*
 
 - Total de hallazgos **Aplicable:** 0
 - Total de hallazgos **De interés:** 5 (1 de ellos con ALTA PRIORIDAD DE VALIDACIÓN)
 - **Pendientes de validación** por el Jefe de Gestión Ambiental: 4 (SMA oficio calor extremo, Res. Ex. 6.173/2026, Ley 21.847, sentencia del Tercer Tribunal Ambiental sobre PdC)
 - Hallazgos con Confianza Baja (verificación manual prioritaria): 1 (sentencia del Tercer Tribunal Ambiental sobre PdC)
 - Origen: 4 de fuentes fijas y 1 de la ronda transversal
-- Pendiente de reintento: ediciones del Diario Oficial del 14, 16 y 17-11-2026
+- Pendiente de reintento: ediciones del Diario Oficial del 14, 16, 17 y 18-11-2026
+- Hallazgos nuevos el 18-11-2026: 0
