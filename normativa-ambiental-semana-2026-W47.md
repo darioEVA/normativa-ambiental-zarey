@@ -1,6 +1,6 @@
-Archivo de esta semana: https://github.com/darioEVA/normativa-ambiental-zarey/blob/claude/awesome-franklin-kgjdjw/normativa-ambiental-semana-2026-W47.md
+Archivo de esta semana: https://github.com/darioEVA/normativa-ambiental-zarey/blob/claude/awesome-franklin-7ru23v/normativa-ambiental-semana-2026-W47.md
 
-> Nota de ubicación: desde el 18-11-2026 el archivo se guarda en la rama de trabajo `claude/awesome-franklin-kgjdjw`, que contiene todo lo registrado el lunes (`claude/awesome-franklin-qg3yjt`) y el martes (`claude/awesome-franklin-m8br38`) (la rutina no tiene permiso para escribir directamente en `main`). Cuando se integre a `main`, la ruta pasa a ser `https://github.com/darioEVA/normativa-ambiental-zarey/blob/main/normativa-ambiental-semana-2026-W47.md`.
+> Nota de ubicación: desde el 19-11-2026 el archivo se guarda en la rama de trabajo `claude/awesome-franklin-7ru23v`, que contiene todo lo registrado el lunes (`claude/awesome-franklin-qg3yjt`), el martes (`claude/awesome-franklin-m8br38`) y el miércoles (`claude/awesome-franklin-kgjdjw`) (la rutina no tiene permiso para escribir directamente en `main`). Cuando se integre a `main`, la ruta pasa a ser `https://github.com/darioEVA/normativa-ambiental-zarey/blob/main/normativa-ambiental-semana-2026-W47.md`.
 
 # Revisión de normativa ambiental — ZP-027 — Semana 2026-W47 (16 al 22 de noviembre de 2026)
 
@@ -193,13 +193,46 @@ Semana iniciada el lunes 16-11-2026 (archivo nuevo de la semana; no arrastra fil
 
 > Hallazgos marcados como 'De interés' con duda de aplicabilidad requieren validación del Jefe de Gestión Ambiental antes de comunicarse como aplicables a clientes.
 
+### Ejecución jueves 19-11-2026
+
+**Gestión de vencimientos:** la consulta ciudadana de los lagos nor-patagónicos (hallazgo 4) sigue abierta hasta el 13-01-2027, así que no hay plazos vencidos. Talleres ya realizados: Cunco (17-11) y Coñaripe (19-11). Próximo taller: Futrono (24-11).
+
+**Hallazgos nuevos hoy:** ninguno. No se encontraron publicaciones ambientales nuevas del 16 al 19-11-2026 que cumplan el criterio del punto 5.1 y que no estuvieran ya registradas en esta semana o en semanas anteriores.
+
+#### Revisados y descartados (19-11-2026)
+- SMA, 04-11-2026: formulación de cargos (elusión al SEIA) a Compañía Minera Tridente y Constructora Río Negro por extracción de áridos en Biobío y Los Lagos. Es un caso específico de terceros, fuera de la ventana de 3 días; no crea obligaciones generales.
+- Tribunal Ambiental, ~04-11-2026: rechazo de la reclamación contra el proyecto minero Arqueros (Coquimbo). Es un caso específico de un tercero, fuera de la ventana.
+- Contraloría: toma de razón del DS N° 17/2025, que modifica el Reglamento del SEIA (publicado en el DO el 21-01-2026). Es una norma ya vigente desde enero de 2026; no es una novedad del período.
+- DGA, 16-11-2026: reporte de embalses (7.896 millones de m³, +26% interanual). Es información hidrológica, no una norma ni una resolución.
+- SMA, 12-11-2026: webinar SMA–OEFA (Perú) sobre inteligencia artificial en fiscalización. Es cooperación institucional, no una norma.
+
+#### Incidencias de la ejecución del 19-11-2026
+- **Fallo técnico temporal, no específico de la fuente:** el fetch directo falló otra vez por resolución DNS (`ENOTFOUND www.diariooficial.interior.gob.cl`). Es la misma restricción de red de la sesión de lunes a miércoles: hay que permitir el dominio en la configuración de red del entorno. Toda la revisión se hizo por búsqueda web. **No debe interpretarse como ausencia de novedades.**
+- **Diario Oficial:** las ediciones del 14, 16, 17, 18 y 19-11-2026 siguen sin aparecer en los buscadores (lo último indexado es la edición 44.598 del 13-11). **Cinco ediciones quedan sin revisar: revisión manual prioritaria recomendada.**
+- **SNIFA y RETC:** las búsquedas no devuelven contenido chileno del período (los resultados son de otros países o antiguos). No hubo fetch de respaldo. Reintentar.
+- Las fuentes semanales (lunes) y mensuales (primer día hábil) no corresponden hoy.
+
+#### Sin novedades hoy en (según búsqueda web; ver incidencias):
+- Diario Oficial: ediciones del 14 al 19-11 no indexadas (incidencia; no es lo mismo que "sin novedades")
+- SMA: portal, sanciones y procedimientos sancionatorios. No hay sanciones, formulaciones de cargos ni medidas provisionales nuevas del 16 al 19-11; lo último indexado (PdC salmoneras 16-11) ya se descartó.
+- SNIFA: instrucciones generales y programas de fiscalización (sin contenido indexado; reintentar)
+- RETC: noticias y reportes (sin contenido indexado; reintentar)
+- MMA: noticias (lo último indexado es del 13-11, ya registrado)
+- SERNAGEOMIN: sin resoluciones nuevas sobre relaves, depósitos de estériles o cierre de faenas
+- DGA: sin decretos de escasez hídrica ni resoluciones nuevas (las últimas prórrogas son de julio-agosto de 2026)
+- Contraloría: sin dictámenes nuevos en materia ambiental, minera o hídrica
+- Ronda transversal (SEREMI MMA Valparaíso / Concón-Quintero-Puchuncaví, normas de emisión, planes de descontaminación, Ley REP, tribunales ambientales): sin novedades dentro de la ventana. No hay episodios críticos ni alertas de calidad del aire declarados.
+
+> Hallazgos marcados como 'De interés' con duda de aplicabilidad requieren validación del Jefe de Gestión Ambiental antes de comunicarse como aplicables a clientes.
+
 ## Resumen de la semana
-*(actualizado al 18-11-2026)*
+*(actualizado al 19-11-2026)*
 
 - Total de hallazgos **Aplicable:** 0
 - Total de hallazgos **De interés:** 5 (1 de ellos con ALTA PRIORIDAD DE VALIDACIÓN)
 - **Pendientes de validación** por el Jefe de Gestión Ambiental: 4 (SMA oficio calor extremo, Res. Ex. 6.173/2026, Ley 21.847, sentencia del Tercer Tribunal Ambiental sobre PdC)
 - Hallazgos con Confianza Baja (verificación manual prioritaria): 1 (sentencia del Tercer Tribunal Ambiental sobre PdC)
 - Origen: 4 de fuentes fijas y 1 de la ronda transversal
-- Pendiente de reintento: ediciones del Diario Oficial del 14, 16, 17 y 18-11-2026
+- Pendiente de reintento: ediciones del Diario Oficial del 14, 16, 17, 18 y 19-11-2026
 - Hallazgos nuevos el 18-11-2026: 0
+- Hallazgos nuevos el 19-11-2026: 0
