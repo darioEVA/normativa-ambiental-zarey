@@ -1,6 +1,6 @@
-Archivo de esta semana: https://github.com/darioEVA/normativa-ambiental-zarey/blob/claude/awesome-franklin-7ru23v/normativa-ambiental-semana-2026-W47.md
+Archivo de esta semana: https://github.com/darioEVA/normativa-ambiental-zarey/blob/claude/awesome-franklin-yb9oe7/normativa-ambiental-semana-2026-W47.md
 
-> Nota de ubicación: desde el 19-11-2026 el archivo se guarda en la rama de trabajo `claude/awesome-franklin-7ru23v`, que contiene todo lo registrado el lunes (`claude/awesome-franklin-qg3yjt`), el martes (`claude/awesome-franklin-m8br38`) y el miércoles (`claude/awesome-franklin-kgjdjw`) (la rutina no tiene permiso para escribir directamente en `main`). Cuando se integre a `main`, la ruta pasa a ser `https://github.com/darioEVA/normativa-ambiental-zarey/blob/main/normativa-ambiental-semana-2026-W47.md`.
+> Nota de ubicación: desde el 20-11-2026 el archivo se guarda en la rama de trabajo `claude/awesome-franklin-yb9oe7`, que contiene todo lo registrado el lunes (`claude/awesome-franklin-qg3yjt`), el martes (`claude/awesome-franklin-m8br38`), el miércoles (`claude/awesome-franklin-kgjdjw`) y el jueves (`claude/awesome-franklin-7ru23v`) (la rutina no tiene permiso para escribir directamente en `main`). Cuando se integre a `main`, la ruta pasa a ser `https://github.com/darioEVA/normativa-ambiental-zarey/blob/main/normativa-ambiental-semana-2026-W47.md`.
 
 # Revisión de normativa ambiental — ZP-027 — Semana 2026-W47 (16 al 22 de noviembre de 2026)
 
@@ -225,14 +225,47 @@ Semana iniciada el lunes 16-11-2026 (archivo nuevo de la semana; no arrastra fil
 
 > Hallazgos marcados como 'De interés' con duda de aplicabilidad requieren validación del Jefe de Gestión Ambiental antes de comunicarse como aplicables a clientes.
 
+### Ejecución viernes 20-11-2026
+
+**Gestión de vencimientos:** la consulta ciudadana de los lagos nor-patagónicos (hallazgo 4) sigue abierta hasta el 13-01-2027, así que no hay plazos vencidos. Talleres ya realizados: Cunco (17-11) y Coñaripe (19-11). Próximos talleres: Futrono (24-11), Panguipulli (25-11) y Puerto Montt (27-11).
+
+**Hallazgos nuevos hoy:** ninguno. No se encontraron publicaciones ambientales nuevas del 17 al 20-11-2026 que cumplan el criterio del punto 5.1 y que no estuvieran ya registradas en esta semana o en semanas anteriores.
+
+#### Revisados y descartados (20-11-2026)
+- **SMA, 19-11-2026: formulación de dos cargos graves a Codelco, División Ministro Hales (Calama).** Los cargos son por control de material particulado: operación sin el filtro de mangas exigido en su RCA y eficiencia de abatimiento bajo el 75% comprometido (noviembre 2023 a febrero 2024). Es un acto sobre un caso específico de un tercero; no crea ni modifica obligaciones generales, por eso no se registra como norma. **Contexto útil para clientes con fundición o tostación (p. ej. AA Chagres, Ventanas):** muestra que la SMA está fiscalizando que los sistemas de abatimiento de material particulado operen de forma continua y con la eficiencia comprometida en la RCA. Fuentes: T13, Cooperativa, BioBioChile y Nuevo Poder (19-11-2026). Las cifras de multa máxima difieren entre medios, y no se encontró el comunicado en el sitio oficial de la SMA.
+- **SMA, 19-11-2026: aprobación del programa de cumplimiento de Codelco por el tranque Talabre** (Rol D-187-2024, según el expediente SNIFA). Es un caso específico de un tercero, igual que el anterior.
+- **SERNAGEOMIN, Res. Ex. N° 2.382 (12-11-2026):** nómina de concesiones beneficiadas con patente minera rebajada para 2027. Es una materia fiscal o minera, no ambiental.
+- **SERNAGEOMIN, 18-11-2026:** lanzamiento del portal GeoMin y de la Plataforma Pública de Relaves (catastro 2026, 839 depósitos). Es una herramienta de información, no una norma.
+- **Seremi MMA, noviembre 2026:** nueva convocatoria del programa de recambio de calefactores en Concón, Quintero y Puchuncaví (hasta el 24-11). Es un programa de beneficios para hogares, no una norma con obligaciones para titulares.
+
+#### Incidencias de la ejecución del 20-11-2026
+- **Fallo técnico temporal, no específico de la fuente:** el fetch directo volvió a fallar por resolución DNS (`ENOTFOUND www.diariooficial.interior.gob.cl`). Es la misma restricción de red de la sesión que de lunes a jueves. Hay que permitir ese dominio (y sma.gob.cl, snifa.sma.gob.cl, retc.cl y mma.gob.cl) en la configuración de red del entorno. Toda la revisión se hizo por búsqueda web. **No debe interpretarse como ausencia de novedades.**
+- **Diario Oficial:** las ediciones del 14, 16, 17, 18, 19 y 20-11-2026 siguen sin aparecer en los buscadores (lo último indexado es la edición 44.598 del 13-11). **Seis ediciones quedan sin revisar: revisión manual prioritaria recomendada.**
+- **SNIFA y RETC:** las búsquedas no devuelven contenido del período (solo los programas de fiscalización 2026 y fichas generales de la Ventanilla Única). No hubo fetch de respaldo. Reintentar.
+- Las fuentes semanales (lunes) y mensuales (primer día hábil) no corresponden hoy.
+
+#### Sin novedades hoy en (según búsqueda web; ver incidencias):
+- Diario Oficial: ediciones del 14 al 20-11 no indexadas (incidencia; no es lo mismo que "sin novedades")
+- SMA: portal, sanciones y procedimientos sancionatorios. Solo hay actos sobre casos específicos (Codelco Ministro Hales y Talabre, descartados arriba); no hay instrucciones generales nuevas.
+- SNIFA: instrucciones generales y programas de fiscalización (rigen los programas 2026; sin contenido nuevo indexado)
+- RETC: noticias y reportes (sin contenido indexado; reintentar)
+- MMA: noticias (lo último normativo es del 13-11, ya registrado; los talleres de los lagos nor-patagónicos son parte del hallazgo 4)
+- SERNAGEOMIN: sin resoluciones nuevas sobre relaves, depósitos de estériles o cierre de faenas
+- DGA: sin decretos de escasez hídrica ni resoluciones nuevas (las últimas prórrogas son de julio-agosto de 2026)
+- Contraloría: sin dictámenes nuevos en materia ambiental, minera o hídrica
+- Ronda transversal (SEREMI MMA, delegaciones presidenciales, alertas ambientales, Ley REP, normas para fundiciones, relaves y residuos peligrosos): sin novedades dentro de la ventana. No hay episodios críticos ni alertas de calidad del aire declarados.
+
+> Hallazgos marcados como 'De interés' con duda de aplicabilidad requieren validación del Jefe de Gestión Ambiental antes de comunicarse como aplicables a clientes.
+
 ## Resumen de la semana
-*(actualizado al 19-11-2026)*
+*(actualizado al 20-11-2026)*
 
 - Total de hallazgos **Aplicable:** 0
 - Total de hallazgos **De interés:** 5 (1 de ellos con ALTA PRIORIDAD DE VALIDACIÓN)
 - **Pendientes de validación** por el Jefe de Gestión Ambiental: 4 (SMA oficio calor extremo, Res. Ex. 6.173/2026, Ley 21.847, sentencia del Tercer Tribunal Ambiental sobre PdC)
 - Hallazgos con Confianza Baja (verificación manual prioritaria): 1 (sentencia del Tercer Tribunal Ambiental sobre PdC)
 - Origen: 4 de fuentes fijas y 1 de la ronda transversal
-- Pendiente de reintento: ediciones del Diario Oficial del 14, 16, 17, 18 y 19-11-2026
+- Pendiente de reintento: ediciones del Diario Oficial del 14, 16, 17, 18, 19 y 20-11-2026
 - Hallazgos nuevos el 18-11-2026: 0
 - Hallazgos nuevos el 19-11-2026: 0
+- Hallazgos nuevos el 20-11-2026: 0
